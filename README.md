@@ -8,5 +8,5 @@ Certifique-se de ter o ambiente Flutter instalado. Se não, siga as instruções
 
 Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/seu-projeto-flutter.git
+   git clone https://github.com/joaoavilars/curso_flutterando.git
    ```
