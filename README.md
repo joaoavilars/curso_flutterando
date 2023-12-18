@@ -1,4 +1,4 @@
-# [Nome do Seu Projeto Flutter]
+# Meus Estudos de Flutter
 
 ## Descrição
 Bem-vindo ao repositório do meu projeto de estudos do Flutter. Este projeto foi desenvolvido como parte do meu aprendizado em Flutter e contém códigos com as principais estruturas e exercicios.
